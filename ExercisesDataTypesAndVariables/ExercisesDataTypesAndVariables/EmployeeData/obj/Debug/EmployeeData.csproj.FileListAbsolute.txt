@@ -1,0 +1,5 @@
+D:\Work\softuni-решения\ТекМодул\ExercisesDataTypesAndVariables\ExercisesDataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.exe.config
+D:\Work\softuni-решения\ТекМодул\ExercisesDataTypesAndVariables\ExercisesDataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.exe
+D:\Work\softuni-решения\ТекМодул\ExercisesDataTypesAndVariables\ExercisesDataTypesAndVariables\EmployeeData\bin\Debug\EmployeeData.pdb
+D:\Work\softuni-решения\ТекМодул\ExercisesDataTypesAndVariables\ExercisesDataTypesAndVariables\EmployeeData\obj\Debug\EmployeeData.exe
+D:\Work\softuni-решения\ТекМодул\ExercisesDataTypesAndVariables\ExercisesDataTypesAndVariables\EmployeeData\obj\Debug\EmployeeData.pdb

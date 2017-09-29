@@ -1,0 +1,5 @@
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\ReverseCharacters\bin\Debug\ReverseCharacters.exe.config
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\ReverseCharacters\bin\Debug\ReverseCharacters.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\ReverseCharacters\bin\Debug\ReverseCharacters.pdb
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\ReverseCharacters\obj\Debug\ReverseCharacters.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\ReverseCharacters\obj\Debug\ReverseCharacters.pdb

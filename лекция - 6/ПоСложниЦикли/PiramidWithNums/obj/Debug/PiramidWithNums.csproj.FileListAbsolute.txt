@@ -1,0 +1,6 @@
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\PiramidWithNums\bin\Debug\PiramidWithNums.exe.config
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\PiramidWithNums\bin\Debug\PiramidWithNums.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\PiramidWithNums\bin\Debug\PiramidWithNums.pdb
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\PiramidWithNums\obj\Debug\PiramidWithNums.csprojResolveAssemblyReference.cache
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\PiramidWithNums\obj\Debug\PiramidWithNums.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\PiramidWithNums\obj\Debug\PiramidWithNums.pdb

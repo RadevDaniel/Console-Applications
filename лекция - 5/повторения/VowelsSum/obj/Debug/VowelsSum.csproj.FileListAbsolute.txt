@@ -1,0 +1,6 @@
+D:\Work\softuni\лекция - 5\повторения\VowelsSum\bin\Debug\VowelsSum.exe.config
+D:\Work\softuni\лекция - 5\повторения\VowelsSum\bin\Debug\VowelsSum.exe
+D:\Work\softuni\лекция - 5\повторения\VowelsSum\bin\Debug\VowelsSum.pdb
+D:\Work\softuni\лекция - 5\повторения\VowelsSum\obj\Debug\VowelsSum.csprojResolveAssemblyReference.cache
+D:\Work\softuni\лекция - 5\повторения\VowelsSum\obj\Debug\VowelsSum.exe
+D:\Work\softuni\лекция - 5\повторения\VowelsSum\obj\Debug\VowelsSum.pdb

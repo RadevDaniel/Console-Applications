@@ -1,0 +1,5 @@
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

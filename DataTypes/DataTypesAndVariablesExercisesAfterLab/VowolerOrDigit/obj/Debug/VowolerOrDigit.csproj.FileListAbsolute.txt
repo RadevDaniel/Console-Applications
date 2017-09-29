@@ -1,0 +1,5 @@
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\VowolerOrDigit\bin\Debug\VowolerOrDigit.exe.config
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\VowolerOrDigit\bin\Debug\VowolerOrDigit.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\VowolerOrDigit\bin\Debug\VowolerOrDigit.pdb
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\VowolerOrDigit\obj\Debug\VowolerOrDigit.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\VowolerOrDigit\obj\Debug\VowolerOrDigit.pdb

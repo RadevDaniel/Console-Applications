@@ -1,0 +1,6 @@
+D:\Work\softuni\Задачи от изпити\ЗадачиОтИзпити\КоткатаТом\bin\Debug\КоткатаТом.exe.config
+D:\Work\softuni\Задачи от изпити\ЗадачиОтИзпити\КоткатаТом\bin\Debug\КоткатаТом.exe
+D:\Work\softuni\Задачи от изпити\ЗадачиОтИзпити\КоткатаТом\bin\Debug\КоткатаТом.pdb
+D:\Work\softuni\Задачи от изпити\ЗадачиОтИзпити\КоткатаТом\obj\Debug\КоткатаТом.csprojResolveAssemblyReference.cache
+D:\Work\softuni\Задачи от изпити\ЗадачиОтИзпити\КоткатаТом\obj\Debug\КоткатаТом.exe
+D:\Work\softuni\Задачи от изпити\ЗадачиОтИзпити\КоткатаТом\obj\Debug\КоткатаТом.pdb

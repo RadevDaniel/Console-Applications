@@ -1,0 +1,6 @@
+D:\Work\softuni\лекция - 5\повторения\ПробенФорЦикъл\bin\Debug\ПробенФорЦикъл.exe.config
+D:\Work\softuni\лекция - 5\повторения\ПробенФорЦикъл\bin\Debug\ПробенФорЦикъл.exe
+D:\Work\softuni\лекция - 5\повторения\ПробенФорЦикъл\bin\Debug\ПробенФорЦикъл.pdb
+D:\Work\softuni\лекция - 5\повторения\ПробенФорЦикъл\obj\Debug\ПробенФорЦикъл.csprojResolveAssemblyReference.cache
+D:\Work\softuni\лекция - 5\повторения\ПробенФорЦикъл\obj\Debug\ПробенФорЦикъл.exe
+D:\Work\softuni\лекция - 5\повторения\ПробенФорЦикъл\obj\Debug\ПробенФорЦикъл.pdb

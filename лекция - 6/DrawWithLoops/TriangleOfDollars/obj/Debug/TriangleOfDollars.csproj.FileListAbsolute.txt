@@ -1,0 +1,5 @@
+D:\Work\softuni\лекция - 6\DrawWithLoops\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe.config
+D:\Work\softuni\лекция - 6\DrawWithLoops\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe
+D:\Work\softuni\лекция - 6\DrawWithLoops\TriangleOfDollars\bin\Debug\TriangleOfDollars.pdb
+D:\Work\softuni\лекция - 6\DrawWithLoops\TriangleOfDollars\obj\Debug\TriangleOfDollars.exe
+D:\Work\softuni\лекция - 6\DrawWithLoops\TriangleOfDollars\obj\Debug\TriangleOfDollars.pdb

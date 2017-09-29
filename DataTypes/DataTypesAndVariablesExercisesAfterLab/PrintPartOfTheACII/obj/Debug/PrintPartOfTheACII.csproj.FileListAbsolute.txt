@@ -1,0 +1,6 @@
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\PrintPartOfTheACII\bin\Debug\PrintPartOfTheACII.exe.config
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\PrintPartOfTheACII\bin\Debug\PrintPartOfTheACII.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\PrintPartOfTheACII\bin\Debug\PrintPartOfTheACII.pdb
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\PrintPartOfTheACII\obj\Debug\PrintPartOfTheACII.csprojResolveAssemblyReference.cache
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\PrintPartOfTheACII\obj\Debug\PrintPartOfTheACII.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\PrintPartOfTheACII\obj\Debug\PrintPartOfTheACII.pdb

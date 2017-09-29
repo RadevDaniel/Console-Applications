@@ -1,0 +1,5 @@
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\NumberInRange\bin\Debug\NumberInRange.exe.config
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\NumberInRange\bin\Debug\NumberInRange.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\NumberInRange\bin\Debug\NumberInRange.pdb
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\NumberInRange\obj\Debug\NumberInRange.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\NumberInRange\obj\Debug\NumberInRange.pdb

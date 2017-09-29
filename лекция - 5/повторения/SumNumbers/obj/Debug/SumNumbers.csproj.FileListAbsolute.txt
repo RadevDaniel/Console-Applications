@@ -1,0 +1,5 @@
+D:\Work\softuni\лекция - 5\повторения\SumNumbers\bin\Debug\SumNumbers.exe.config
+D:\Work\softuni\лекция - 5\повторения\SumNumbers\bin\Debug\SumNumbers.exe
+D:\Work\softuni\лекция - 5\повторения\SumNumbers\bin\Debug\SumNumbers.pdb
+D:\Work\softuni\лекция - 5\повторения\SumNumbers\obj\Debug\SumNumbers.exe
+D:\Work\softuni\лекция - 5\повторения\SumNumbers\obj\Debug\SumNumbers.pdb

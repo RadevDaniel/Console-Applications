@@ -1,0 +1,6 @@
+D:\Work\softuni-решения\ТекМодул\MethodsAndDebugging\BlankReciept\bin\Debug\BlankReciept.exe.config
+D:\Work\softuni-решения\ТекМодул\MethodsAndDebugging\BlankReciept\bin\Debug\BlankReciept.exe
+D:\Work\softuni-решения\ТекМодул\MethodsAndDebugging\BlankReciept\bin\Debug\BlankReciept.pdb
+D:\Work\softuni-решения\ТекМодул\MethodsAndDebugging\BlankReciept\obj\Debug\BlankReciept.csprojResolveAssemblyReference.cache
+D:\Work\softuni-решения\ТекМодул\MethodsAndDebugging\BlankReciept\obj\Debug\BlankReciept.exe
+D:\Work\softuni-решения\ТекМодул\MethodsAndDebugging\BlankReciept\obj\Debug\BlankReciept.pdb

@@ -1,0 +1,5 @@
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\FastPrimeCheckerRefactor\bin\Debug\FastPrimeCheckerRefactor.exe.config
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\FastPrimeCheckerRefactor\bin\Debug\FastPrimeCheckerRefactor.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\FastPrimeCheckerRefactor\bin\Debug\FastPrimeCheckerRefactor.pdb
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\FastPrimeCheckerRefactor\obj\Debug\FastPrimeCheckerRefactor.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\FastPrimeCheckerRefactor\obj\Debug\FastPrimeCheckerRefactor.pdb

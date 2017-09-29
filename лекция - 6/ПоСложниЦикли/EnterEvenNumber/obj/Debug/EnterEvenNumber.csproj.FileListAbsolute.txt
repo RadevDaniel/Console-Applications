@@ -1,0 +1,6 @@
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe.config
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\EnterEvenNumber\bin\Debug\EnterEvenNumber.pdb
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\EnterEvenNumber\obj\Debug\EnterEvenNumber.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\EnterEvenNumber\obj\Debug\EnterEvenNumber.pdb
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\EnterEvenNumber\obj\Debug\EnterEvenNumber.csprojResolveAssemblyReference.cache

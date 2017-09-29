@@ -1,0 +1,5 @@
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\NumberTable\bin\Debug\NumberTable.exe.config
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\NumberTable\bin\Debug\NumberTable.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\NumberTable\bin\Debug\NumberTable.pdb
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\NumberTable\obj\Debug\NumberTable.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\NumberTable\obj\Debug\NumberTable.pdb

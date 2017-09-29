@@ -1,0 +1,6 @@
+D:\Work\softuni\Задачи от изпити\ЗадачиОтИзпити\Крепост\bin\Debug\Крепост.exe.config
+D:\Work\softuni\Задачи от изпити\ЗадачиОтИзпити\Крепост\bin\Debug\Крепост.exe
+D:\Work\softuni\Задачи от изпити\ЗадачиОтИзпити\Крепост\bin\Debug\Крепост.pdb
+D:\Work\softuni\Задачи от изпити\ЗадачиОтИзпити\Крепост\obj\Debug\Крепост.csprojResolveAssemblyReference.cache
+D:\Work\softuni\Задачи от изпити\ЗадачиОтИзпити\Крепост\obj\Debug\Крепост.exe
+D:\Work\softuni\Задачи от изпити\ЗадачиОтИзпити\Крепост\obj\Debug\Крепост.pdb

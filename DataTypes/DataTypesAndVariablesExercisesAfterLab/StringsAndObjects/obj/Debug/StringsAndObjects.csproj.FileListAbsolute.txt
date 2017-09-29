@@ -1,0 +1,5 @@
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\StringsAndObjects\obj\Debug\StringsAndObjects.pdb

@@ -1,0 +1,5 @@
+D:\Work\softuni\лекция - 5\повторения\MaxNumber\bin\Debug\MaxNumber.exe.config
+D:\Work\softuni\лекция - 5\повторения\MaxNumber\bin\Debug\MaxNumber.exe
+D:\Work\softuni\лекция - 5\повторения\MaxNumber\bin\Debug\MaxNumber.pdb
+D:\Work\softuni\лекция - 5\повторения\MaxNumber\obj\Debug\MaxNumber.exe
+D:\Work\softuni\лекция - 5\повторения\MaxNumber\obj\Debug\MaxNumber.pdb

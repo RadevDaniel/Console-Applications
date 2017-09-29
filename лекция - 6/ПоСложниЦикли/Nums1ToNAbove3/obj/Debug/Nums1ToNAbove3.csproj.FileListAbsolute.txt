@@ -1,0 +1,6 @@
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\Nums1ToNAbove3\bin\Debug\Nums1ToNAbove3.exe.config
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\Nums1ToNAbove3\bin\Debug\Nums1ToNAbove3.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\Nums1ToNAbove3\bin\Debug\Nums1ToNAbove3.pdb
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\Nums1ToNAbove3\obj\Debug\Nums1ToNAbove3.csprojResolveAssemblyReference.cache
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\Nums1ToNAbove3\obj\Debug\Nums1ToNAbove3.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\Nums1ToNAbove3\obj\Debug\Nums1ToNAbove3.pdb

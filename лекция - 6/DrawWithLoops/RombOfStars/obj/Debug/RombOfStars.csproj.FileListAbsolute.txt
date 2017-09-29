@@ -1,0 +1,5 @@
+D:\Work\softuni\лекция - 6\DrawWithLoops\RombOfStars\bin\Debug\RombOfStars.exe.config
+D:\Work\softuni\лекция - 6\DrawWithLoops\RombOfStars\bin\Debug\RombOfStars.exe
+D:\Work\softuni\лекция - 6\DrawWithLoops\RombOfStars\bin\Debug\RombOfStars.pdb
+D:\Work\softuni\лекция - 6\DrawWithLoops\RombOfStars\obj\Debug\RombOfStars.exe
+D:\Work\softuni\лекция - 6\DrawWithLoops\RombOfStars\obj\Debug\RombOfStars.pdb

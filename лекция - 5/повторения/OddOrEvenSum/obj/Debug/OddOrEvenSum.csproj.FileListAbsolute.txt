@@ -1,0 +1,6 @@
+D:\Work\softuni\лекция - 5\повторения\OddOrEvenSum\bin\Debug\OddOrEvenSum.exe.config
+D:\Work\softuni\лекция - 5\повторения\OddOrEvenSum\bin\Debug\OddOrEvenSum.exe
+D:\Work\softuni\лекция - 5\повторения\OddOrEvenSum\bin\Debug\OddOrEvenSum.pdb
+D:\Work\softuni\лекция - 5\повторения\OddOrEvenSum\obj\Debug\OddOrEvenSum.csprojResolveAssemblyReference.cache
+D:\Work\softuni\лекция - 5\повторения\OddOrEvenSum\obj\Debug\OddOrEvenSum.exe
+D:\Work\softuni\лекция - 5\повторения\OddOrEvenSum\obj\Debug\OddOrEvenSum.pdb

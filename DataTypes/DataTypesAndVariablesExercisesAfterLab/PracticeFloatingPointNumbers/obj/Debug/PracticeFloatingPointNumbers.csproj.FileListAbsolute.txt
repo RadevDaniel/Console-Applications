@@ -1,0 +1,5 @@
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe.config
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\PracticeFloatingPointNumbers\bin\Debug\PracticeFloatingPointNumbers.pdb
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\PracticeFloatingPointNumbers\obj\Debug\PracticeFloatingPointNumbers.pdb

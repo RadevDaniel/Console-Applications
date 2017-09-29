@@ -1,0 +1,6 @@
+D:\Work\softuni\лекция - 4\СложниПроверки\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe.config
+D:\Work\softuni\лекция - 4\СложниПроверки\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.exe
+D:\Work\softuni\лекция - 4\СложниПроверки\PointOnRectangleBorder\bin\Debug\PointOnRectangleBorder.pdb
+D:\Work\softuni\лекция - 4\СложниПроверки\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.csprojResolveAssemblyReference.cache
+D:\Work\softuni\лекция - 4\СложниПроверки\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.exe
+D:\Work\softuni\лекция - 4\СложниПроверки\PointOnRectangleBorder\obj\Debug\PointOnRectangleBorder.pdb

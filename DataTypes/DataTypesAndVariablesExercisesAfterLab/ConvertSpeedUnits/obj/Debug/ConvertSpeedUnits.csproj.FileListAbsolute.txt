@@ -1,0 +1,6 @@
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe.config
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\ConvertSpeedUnits\bin\Debug\ConvertSpeedUnits.pdb
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.csprojResolveAssemblyReference.cache
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\ConvertSpeedUnits\obj\Debug\ConvertSpeedUnits.pdb

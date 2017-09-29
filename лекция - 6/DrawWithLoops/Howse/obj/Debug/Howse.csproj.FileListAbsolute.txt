@@ -1,0 +1,6 @@
+D:\Work\softuni\лекция - 6\DrawWithLoops\Howse\bin\Debug\Howse.exe.config
+D:\Work\softuni\лекция - 6\DrawWithLoops\Howse\bin\Debug\Howse.exe
+D:\Work\softuni\лекция - 6\DrawWithLoops\Howse\bin\Debug\Howse.pdb
+D:\Work\softuni\лекция - 6\DrawWithLoops\Howse\obj\Debug\Howse.exe
+D:\Work\softuni\лекция - 6\DrawWithLoops\Howse\obj\Debug\Howse.pdb
+D:\Work\softuni\лекция - 6\DrawWithLoops\Howse\obj\Debug\Howse.csprojResolveAssemblyReference.cache

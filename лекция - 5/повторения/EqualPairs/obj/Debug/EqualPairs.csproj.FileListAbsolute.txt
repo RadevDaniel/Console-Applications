@@ -1,0 +1,6 @@
+D:\Work\softuni\лекция - 5\повторения\EqualPairs\bin\Debug\EqualPairs.exe.config
+D:\Work\softuni\лекция - 5\повторения\EqualPairs\bin\Debug\EqualPairs.exe
+D:\Work\softuni\лекция - 5\повторения\EqualPairs\bin\Debug\EqualPairs.pdb
+D:\Work\softuni\лекция - 5\повторения\EqualPairs\obj\Debug\EqualPairs.csprojResolveAssemblyReference.cache
+D:\Work\softuni\лекция - 5\повторения\EqualPairs\obj\Debug\EqualPairs.exe
+D:\Work\softuni\лекция - 5\повторения\EqualPairs\obj\Debug\EqualPairs.pdb

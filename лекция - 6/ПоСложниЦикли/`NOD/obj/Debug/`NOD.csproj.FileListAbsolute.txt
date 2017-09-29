@@ -1,0 +1,6 @@
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\`NOD\bin\Debug\`NOD.exe.config
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\`NOD\bin\Debug\`NOD.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\`NOD\bin\Debug\`NOD.pdb
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\`NOD\obj\Debug\`NOD.csprojResolveAssemblyReference.cache
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\`NOD\obj\Debug\`NOD.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\`NOD\obj\Debug\`NOD.pdb

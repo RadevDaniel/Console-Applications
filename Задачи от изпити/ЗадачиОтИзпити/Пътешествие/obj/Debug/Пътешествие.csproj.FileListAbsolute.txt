@@ -1,0 +1,6 @@
+D:\Work\softuni\Задачи от изпити\ЗадачиОтИзпити\Пътешествие\bin\Debug\Пътешествие.exe.config
+D:\Work\softuni\Задачи от изпити\ЗадачиОтИзпити\Пътешествие\bin\Debug\Пътешествие.exe
+D:\Work\softuni\Задачи от изпити\ЗадачиОтИзпити\Пътешествие\bin\Debug\Пътешествие.pdb
+D:\Work\softuni\Задачи от изпити\ЗадачиОтИзпити\Пътешествие\obj\Debug\Пътешествие.csprojResolveAssemblyReference.cache
+D:\Work\softuni\Задачи от изпити\ЗадачиОтИзпити\Пътешествие\obj\Debug\Пътешествие.exe
+D:\Work\softuni\Задачи от изпити\ЗадачиОтИзпити\Пътешествие\obj\Debug\Пътешествие.pdb

@@ -1,0 +1,5 @@
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\PowersOfTwo\bin\Debug\PowersOfTwo.exe.config
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\PowersOfTwo\bin\Debug\PowersOfTwo.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\PowersOfTwo\bin\Debug\PowersOfTwo.pdb
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\PowersOfTwo\obj\Debug\PowersOfTwo.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\PowersOfTwo\obj\Debug\PowersOfTwo.pdb

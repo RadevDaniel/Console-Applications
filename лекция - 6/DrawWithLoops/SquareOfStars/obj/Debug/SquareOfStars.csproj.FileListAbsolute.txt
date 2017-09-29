@@ -1,0 +1,5 @@
+D:\Work\softuni\лекция - 6\DrawWithLoops\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+D:\Work\softuni\лекция - 6\DrawWithLoops\SquareOfStars\bin\Debug\SquareOfStars.exe
+D:\Work\softuni\лекция - 6\DrawWithLoops\SquareOfStars\bin\Debug\SquareOfStars.pdb
+D:\Work\softuni\лекция - 6\DrawWithLoops\SquareOfStars\obj\Debug\SquareOfStars.exe
+D:\Work\softuni\лекция - 6\DrawWithLoops\SquareOfStars\obj\Debug\SquareOfStars.pdb

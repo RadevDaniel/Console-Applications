@@ -1,0 +1,5 @@
+D:\Work\softuni\лекция - 6\DrawWithLoops\RectangleOfNxNstars\bin\Debug\RectangleOfNxNstars.exe.config
+D:\Work\softuni\лекция - 6\DrawWithLoops\RectangleOfNxNstars\bin\Debug\RectangleOfNxNstars.exe
+D:\Work\softuni\лекция - 6\DrawWithLoops\RectangleOfNxNstars\bin\Debug\RectangleOfNxNstars.pdb
+D:\Work\softuni\лекция - 6\DrawWithLoops\RectangleOfNxNstars\obj\Debug\RectangleOfNxNstars.exe
+D:\Work\softuni\лекция - 6\DrawWithLoops\RectangleOfNxNstars\obj\Debug\RectangleOfNxNstars.pdb

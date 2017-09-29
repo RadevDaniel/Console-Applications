@@ -1,0 +1,6 @@
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe.config
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\CenturiesToNanoseconds\bin\Debug\CenturiesToNanoseconds.pdb
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.csprojResolveAssemblyReference.cache
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\CenturiesToNanoseconds\obj\Debug\CenturiesToNanoseconds.pdb

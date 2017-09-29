@@ -1,0 +1,6 @@
+D:\Work\softuni\лекция - 5\повторения\HalfSumElement\bin\Debug\HalfSumElement.exe.config
+D:\Work\softuni\лекция - 5\повторения\HalfSumElement\bin\Debug\HalfSumElement.exe
+D:\Work\softuni\лекция - 5\повторения\HalfSumElement\bin\Debug\HalfSumElement.pdb
+D:\Work\softuni\лекция - 5\повторения\HalfSumElement\obj\Debug\HalfSumElement.csprojResolveAssemblyReference.cache
+D:\Work\softuni\лекция - 5\повторения\HalfSumElement\obj\Debug\HalfSumElement.exe
+D:\Work\softuni\лекция - 5\повторения\HalfSumElement\obj\Debug\HalfSumElement.pdb

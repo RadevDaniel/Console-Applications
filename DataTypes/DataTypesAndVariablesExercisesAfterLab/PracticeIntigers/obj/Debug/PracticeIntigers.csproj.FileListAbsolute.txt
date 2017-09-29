@@ -1,0 +1,6 @@
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\PracticeIntigers\bin\Debug\PracticeIntigers.exe.config
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\PracticeIntigers\bin\Debug\PracticeIntigers.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\PracticeIntigers\bin\Debug\PracticeIntigers.pdb
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\PracticeIntigers\obj\Debug\PracticeIntigers.csprojResolveAssemblyReference.cache
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\PracticeIntigers\obj\Debug\PracticeIntigers.exe
+D:\Work\softuni-решения\ТекМодул\DataTypes\DataTypesAndVariablesExercisesAfterLab\PracticeIntigers\obj\Debug\PracticeIntigers.pdb

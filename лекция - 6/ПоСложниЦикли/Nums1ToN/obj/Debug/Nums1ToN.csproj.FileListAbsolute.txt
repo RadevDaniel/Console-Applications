@@ -1,0 +1,5 @@
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\Nums1ToN\bin\Debug\Nums1ToN.exe.config
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\Nums1ToN\bin\Debug\Nums1ToN.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\Nums1ToN\bin\Debug\Nums1ToN.pdb
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\Nums1ToN\obj\Debug\Nums1ToN.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\Nums1ToN\obj\Debug\Nums1ToN.pdb

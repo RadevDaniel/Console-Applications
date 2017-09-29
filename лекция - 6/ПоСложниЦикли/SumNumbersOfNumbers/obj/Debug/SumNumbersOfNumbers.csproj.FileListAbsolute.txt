@@ -1,0 +1,5 @@
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\SumNumbersOfNumbers\bin\Debug\SumNumbersOfNumbers.exe.config
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\SumNumbersOfNumbers\bin\Debug\SumNumbersOfNumbers.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\SumNumbersOfNumbers\bin\Debug\SumNumbersOfNumbers.pdb
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\SumNumbersOfNumbers\obj\Debug\SumNumbersOfNumbers.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\SumNumbersOfNumbers\obj\Debug\SumNumbersOfNumbers.pdb

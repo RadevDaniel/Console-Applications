@@ -1,0 +1,5 @@
+D:\Work\softuni\лекция - 5\повторения\MinNumber\bin\Debug\MinNumber.exe.config
+D:\Work\softuni\лекция - 5\повторения\MinNumber\bin\Debug\MinNumber.exe
+D:\Work\softuni\лекция - 5\повторения\MinNumber\bin\Debug\MinNumber.pdb
+D:\Work\softuni\лекция - 5\повторения\MinNumber\obj\Debug\MinNumber.exe
+D:\Work\softuni\лекция - 5\повторения\MinNumber\obj\Debug\MinNumber.pdb

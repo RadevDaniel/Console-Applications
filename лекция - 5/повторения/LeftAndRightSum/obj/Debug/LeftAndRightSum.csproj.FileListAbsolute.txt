@@ -1,0 +1,6 @@
+D:\Work\softuni\лекция - 5\повторения\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
+D:\Work\softuni\лекция - 5\повторения\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
+D:\Work\softuni\лекция - 5\повторения\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
+D:\Work\softuni\лекция - 5\повторения\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
+D:\Work\softuni\лекция - 5\повторения\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb
+D:\Work\softuni\лекция - 5\повторения\LeftAndRightSum\obj\Debug\LeftAndRightSum.csprojResolveAssemblyReference.cache

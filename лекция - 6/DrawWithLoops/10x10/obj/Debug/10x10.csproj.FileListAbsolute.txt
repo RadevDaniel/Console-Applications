@@ -1,0 +1,6 @@
+D:\Work\softuni\лекция - 6\DrawWithLoops\10x10\bin\Debug\10x10.exe.config
+D:\Work\softuni\лекция - 6\DrawWithLoops\10x10\bin\Debug\10x10.exe
+D:\Work\softuni\лекция - 6\DrawWithLoops\10x10\bin\Debug\10x10.pdb
+D:\Work\softuni\лекция - 6\DrawWithLoops\10x10\obj\Debug\10x10.csprojResolveAssemblyReference.cache
+D:\Work\softuni\лекция - 6\DrawWithLoops\10x10\obj\Debug\10x10.exe
+D:\Work\softuni\лекция - 6\DrawWithLoops\10x10\obj\Debug\10x10.pdb

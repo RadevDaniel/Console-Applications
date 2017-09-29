@@ -1,0 +1,6 @@
+D:\Work\softuni\лекция - 6\DrawWithLoops\ChristmassThree\bin\Debug\ChristmassThree.exe.config
+D:\Work\softuni\лекция - 6\DrawWithLoops\ChristmassThree\bin\Debug\ChristmassThree.exe
+D:\Work\softuni\лекция - 6\DrawWithLoops\ChristmassThree\bin\Debug\ChristmassThree.pdb
+D:\Work\softuni\лекция - 6\DrawWithLoops\ChristmassThree\obj\Debug\ChristmassThree.csprojResolveAssemblyReference.cache
+D:\Work\softuni\лекция - 6\DrawWithLoops\ChristmassThree\obj\Debug\ChristmassThree.exe
+D:\Work\softuni\лекция - 6\DrawWithLoops\ChristmassThree\obj\Debug\ChristmassThree.pdb

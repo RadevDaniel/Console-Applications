@@ -1,0 +1,6 @@
+D:\Work\softuni\лекция - 5\повторения\OddEvenPosition\bin\Debug\OddEvenPosition.exe.config
+D:\Work\softuni\лекция - 5\повторения\OddEvenPosition\bin\Debug\OddEvenPosition.exe
+D:\Work\softuni\лекция - 5\повторения\OddEvenPosition\bin\Debug\OddEvenPosition.pdb
+D:\Work\softuni\лекция - 5\повторения\OddEvenPosition\obj\Debug\OddEvenPosition.csprojResolveAssemblyReference.cache
+D:\Work\softuni\лекция - 5\повторения\OddEvenPosition\obj\Debug\OddEvenPosition.exe
+D:\Work\softuni\лекция - 5\повторения\OddEvenPosition\obj\Debug\OddEvenPosition.pdb

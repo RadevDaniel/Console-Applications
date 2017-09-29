@@ -1,0 +1,6 @@
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\Factoriel\bin\Debug\Factoriel.exe.config
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\Factoriel\bin\Debug\Factoriel.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\Factoriel\bin\Debug\Factoriel.pdb
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\Factoriel\obj\Debug\Factoriel.csprojResolveAssemblyReference.cache
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\Factoriel\obj\Debug\Factoriel.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\Factoriel\obj\Debug\Factoriel.pdb

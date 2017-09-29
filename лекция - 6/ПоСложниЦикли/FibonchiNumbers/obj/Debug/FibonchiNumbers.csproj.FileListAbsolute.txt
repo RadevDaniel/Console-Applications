@@ -1,0 +1,6 @@
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\FibonchiNumbers\bin\Debug\FibonchiNumbers.exe.config
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\FibonchiNumbers\bin\Debug\FibonchiNumbers.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\FibonchiNumbers\bin\Debug\FibonchiNumbers.pdb
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\FibonchiNumbers\obj\Debug\FibonchiNumbers.csprojResolveAssemblyReference.cache
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\FibonchiNumbers\obj\Debug\FibonchiNumbers.exe
+D:\Work\softuni\лекция - 6\ПоСложниЦикли\FibonchiNumbers\obj\Debug\FibonchiNumbers.pdb

@@ -1,0 +1,6 @@
+D:\Work\softuni\лекция - 4\СложниПроверки\TradeCommissions\bin\Debug\TradeCommissions.exe.config
+D:\Work\softuni\лекция - 4\СложниПроверки\TradeCommissions\bin\Debug\TradeCommissions.exe
+D:\Work\softuni\лекция - 4\СложниПроверки\TradeCommissions\bin\Debug\TradeCommissions.pdb
+D:\Work\softuni\лекция - 4\СложниПроверки\TradeCommissions\obj\Debug\TradeCommissions.csprojResolveAssemblyReference.cache
+D:\Work\softuni\лекция - 4\СложниПроверки\TradeCommissions\obj\Debug\TradeCommissions.exe
+D:\Work\softuni\лекция - 4\СложниПроверки\TradeCommissions\obj\Debug\TradeCommissions.pdb

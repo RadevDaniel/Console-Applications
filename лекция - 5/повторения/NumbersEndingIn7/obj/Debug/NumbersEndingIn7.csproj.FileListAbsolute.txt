@@ -1,0 +1,5 @@
+D:\Work\softuni\лекция - 5\повторения\NumbersEndingIn7\bin\Debug\NumbersEndingIn7.exe.config
+D:\Work\softuni\лекция - 5\повторения\NumbersEndingIn7\bin\Debug\NumbersEndingIn7.exe
+D:\Work\softuni\лекция - 5\повторения\NumbersEndingIn7\bin\Debug\NumbersEndingIn7.pdb
+D:\Work\softuni\лекция - 5\повторения\NumbersEndingIn7\obj\Debug\NumbersEndingIn7.exe
+D:\Work\softuni\лекция - 5\повторения\NumbersEndingIn7\obj\Debug\NumbersEndingIn7.pdb

@@ -1,0 +1,6 @@
+D:\Work\softuni\лекция - 4\СложниПроверки\FruitShop\bin\Debug\FruitShop.exe.config
+D:\Work\softuni\лекция - 4\СложниПроверки\FruitShop\bin\Debug\FruitShop.exe
+D:\Work\softuni\лекция - 4\СложниПроверки\FruitShop\bin\Debug\FruitShop.pdb
+D:\Work\softuni\лекция - 4\СложниПроверки\FruitShop\obj\Debug\FruitShop.csprojResolveAssemblyReference.cache
+D:\Work\softuni\лекция - 4\СложниПроверки\FruitShop\obj\Debug\FruitShop.exe
+D:\Work\softuni\лекция - 4\СложниПроверки\FruitShop\obj\Debug\FruitShop.pdb
